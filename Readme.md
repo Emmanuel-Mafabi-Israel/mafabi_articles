@@ -39,7 +39,7 @@ The system allows magazines to keep track of their published articles and contri
     ```
 2. Navigate to the project directory:
     ```bash
-    cd mafabi-articles
+    cd mafabi_articles
     ```
 
 ## Usage
