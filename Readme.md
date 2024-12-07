@@ -35,7 +35,7 @@ The system allows magazines to keep track of their published articles and contri
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Emmanuel-Mafabi-Israel/mafabi-articles.git
+    git clone https://github.com/Emmanuel-Mafabi-Israel/mafabi_articles.git
     ```
 2. Navigate to the project directory:
     ```bash
